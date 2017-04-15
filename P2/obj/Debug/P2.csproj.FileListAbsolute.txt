@@ -1,0 +1,6 @@
+C:\Users\seanf\documents\visual studio 2017\Projects\S9_L75\P2\bin\Debug\P2.exe.config
+C:\Users\seanf\documents\visual studio 2017\Projects\S9_L75\P2\bin\Debug\P2.exe
+C:\Users\seanf\documents\visual studio 2017\Projects\S9_L75\P2\bin\Debug\P2.pdb
+C:\Users\seanf\documents\visual studio 2017\Projects\S9_L75\P2\obj\Debug\P2.csprojResolveAssemblyReference.cache
+C:\Users\seanf\documents\visual studio 2017\Projects\S9_L75\P2\obj\Debug\P2.exe
+C:\Users\seanf\documents\visual studio 2017\Projects\S9_L75\P2\obj\Debug\P2.pdb

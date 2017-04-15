@@ -1,0 +1,6 @@
+c:\users\seanf\documents\visual studio 2017\Projects\S9_L75\P1\bin\Debug\P1.exe.config
+c:\users\seanf\documents\visual studio 2017\Projects\S9_L75\P1\bin\Debug\P1.exe
+c:\users\seanf\documents\visual studio 2017\Projects\S9_L75\P1\bin\Debug\P1.pdb
+c:\users\seanf\documents\visual studio 2017\Projects\S9_L75\P1\obj\Debug\P1.csprojResolveAssemblyReference.cache
+c:\users\seanf\documents\visual studio 2017\Projects\S9_L75\P1\obj\Debug\P1.exe
+c:\users\seanf\documents\visual studio 2017\Projects\S9_L75\P1\obj\Debug\P1.pdb
